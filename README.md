@@ -79,7 +79,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-<img width="1381" height="826" alt="image" src="https://github.com/user-attachments/assets/b329b86b-64b6-4eab-8d26-679f3f2f7a2b" />
+<img width="1600" height="802" alt="image" src="https://github.com/user-attachments/assets/3dd0eabb-07b8-4bc7-916a-56d5fb527f45" />
 
 <img width="1381" height="826" alt="image" src="https://github.com/user-attachments/assets/5dcc6539-9445-4054-9cfe-14e49c835708" />
 
@@ -99,7 +99,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-<img width="1381" height="826" alt="image" src="https://github.com/user-attachments/assets/3711dea2-d39a-437b-a7ee-f4cc60885abf" />
+<img width="1600" height="791" alt="image" src="https://github.com/user-attachments/assets/a23f7689-8201-4a14-8ce8-d96b10cb74e1" />
 
 
 <img width="1381" height="826" alt="image" src="https://github.com/user-attachments/assets/bc959c9d-72b0-4cad-889a-27daa7cb9c3a" />
