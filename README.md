@@ -81,7 +81,8 @@ rainy,75.0,80.0,false,yes
 
 <img width="1600" height="802" alt="image" src="https://github.com/user-attachments/assets/3dd0eabb-07b8-4bc7-916a-56d5fb527f45" />
 
-<img width="1381" height="826" alt="image" src="https://github.com/user-attachments/assets/5dcc6539-9445-4054-9cfe-14e49c835708" />
+<img width="1600" height="818" alt="image" src="https://github.com/user-attachments/assets/3afc525b-1a74-42b9-b262-9fc7e845788c" />
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
