@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 8-08-25
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -54,6 +54,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+<img width="1376" height="827" alt="image" src="https://github.com/user-attachments/assets/2355f9b3-1e3c-425b-8331-5c68a5d5e841" />
+
+<img width="1381" height="826" alt="image" src="https://github.com/user-attachments/assets/bfb952dd-261d-45a2-857f-05107e463705" />
 
 
 ### PREPROCESSING
@@ -76,6 +79,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+<img width="1381" height="826" alt="image" src="https://github.com/user-attachments/assets/b329b86b-64b6-4eab-8d26-679f3f2f7a2b" />
+
+<img width="1381" height="826" alt="image" src="https://github.com/user-attachments/assets/5dcc6539-9445-4054-9cfe-14e49c835708" />
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -92,6 +99,12 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+<img width="1381" height="826" alt="image" src="https://github.com/user-attachments/assets/3711dea2-d39a-437b-a7ee-f4cc60885abf" />
+
+
+<img width="1381" height="826" alt="image" src="https://github.com/user-attachments/assets/bc959c9d-72b0-4cad-889a-27daa7cb9c3a" />
+
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -107,5 +120,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+
+<img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/fdd71dba-d602-4208-aae3-e80b8b3e0645" />
+
+<img width="975" height="459" alt="image" src="https://github.com/user-attachments/assets/dc9ea7ba-7bfc-43ad-9237-d0f8c01f3de1" />
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
